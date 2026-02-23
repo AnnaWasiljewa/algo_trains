@@ -10,6 +10,6 @@ E. Another Pair of Triangles
 ##### _Дивизион B_
 [A. Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21BA.md)    
 B. Кольцевая линия метро  
-C. Даты  
+[C. Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21BC.md)  
 D. Строительство школы  
 E. Точка и треугольник  
