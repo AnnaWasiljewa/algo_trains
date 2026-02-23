@@ -1,6 +1,6 @@
 ### Яндекс Тренировки 1.0  
 [А. Кондиционер.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
-B. Треугольник.  
+[B. Треугольник.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 С. Телефонные номера.  
 D. Уравнение с корнем.  
 E. Скорая помощь.  
