@@ -9,4 +9,4 @@ F. Расстановка ноутбуков.
 G. Детали.  
 H. Метро.  
 [I. Узник замка Иф.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)  
-J. Система линейных уравнений-2.  
+[J. Система линейных уравнений-2.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md) 
