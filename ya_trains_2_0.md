@@ -8,7 +8,7 @@ D. Футурама
 E. Another Pair of Triangles  
 
 ##### _Дивизион B_
-A. Interactor  
+[A. Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21BA.md)    
 B. Кольцевая линия метро  
 C. Даты  
 D. Строительство школы  
