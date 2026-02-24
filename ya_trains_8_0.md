@@ -1,6 +1,6 @@
 [### Яндекс Тренировки 8.0](https://yandex.ru/yaintern/training/algorithm-training-september-2025?ysclid=mm0ndwgcyi159642795)
 #### Темы 1-2. Тестирование и особые случаи. Множества и словари
-А. Делёж грибов  
+[А. Делёж грибов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81A.md)  
 B. Мамины поручения  
 C. Кибербезопасность  
 D. Отборочный контест  
