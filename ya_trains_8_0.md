@@ -25,7 +25,7 @@ J. Маскарад
 
 #### Темы 5-6. Деревья. Бинарный поиск
 [А. Полка раздора](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85A.md)  
-B. Из тупика в тупик  
+[B. Из тупика в тупик](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85B.md)  
 C. Рекламное объявление  
 D. Обмен валюты  
 E. Феодальная реформа  
