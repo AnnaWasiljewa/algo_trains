@@ -24,7 +24,7 @@ E. Логическое дерево
 
 ##### _Дивизион B_
 [A. Бинарное дерево (вставка, поиск, обход)](https://github.com/AnnaWasiljewa/algo_trains/blob/main/28BA.md)  
-B. Родословная: предки и потомки  
+[B. Родословная: предки и потомки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/28BB.md)  
 C. Родословная LCA  
 D. Бусинки  
 E. Дерево Хаффмана  
