@@ -1,4 +1,4 @@
-### Яндекс Тренировки 2.0
+[### Яндекс Тренировки 2.0](https://yandex.ru/yaintern/algorithm-training_2)
 #### Занятие 1
 ##### _Дивизион A_
 [A. Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AA.md)    
