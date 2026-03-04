@@ -4,7 +4,7 @@
 [B. Треугольник.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 [С. Телефонные номера.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
 [D. Уравнение с корнем.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11D.md)  
-E. Скорая помощь.  
+[E. Скорая помощь.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11E.md)  
 F. Расстановка ноутбуков.  
 G. Детали.  
 H. Метро.  
