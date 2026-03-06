@@ -1,5 +1,5 @@
 ### Яндекс Тренировки
-#### Решения 
+Решения алгоритмических задач Яндекс Тренировок на С++  
 
 [Яндекс Тренировки 1.0](https://github.com/AnnaWasiljewa/algo_trains/blob/main/ya_trains_1_0.md)  
 [Яндекс Тренировки 2.0](https://github.com/AnnaWasiljewa/algo_trains/blob/main/ya_trains_2_0.md)
