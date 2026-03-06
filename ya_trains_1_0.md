@@ -5,7 +5,7 @@
 [С. Телефонные номера.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
 [D. Уравнение с корнем.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11D.md)  
 [E. Скорая помощь.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11E.md)  
-F. Расстановка ноутбуков.  
+[F. Расстановка ноутбуков.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11F.md)  
 G. Детали.  
 H. Метро.  
 [I. Узник замка Иф.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)  
