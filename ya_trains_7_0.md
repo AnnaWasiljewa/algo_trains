@@ -1,4 +1,4 @@
-[### Яндекс Тренировки 7.0](https://yandex.ru/yaintern/training/algorithm-training-march-2025)
+### [Яндекс Тренировки 7.0](https://yandex.ru/yaintern/training/algorithm-training-march-2025)
 #### Разминка
 А. Три единицы подряд   
 B. Покупка билетов  
