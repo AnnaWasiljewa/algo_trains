@@ -9,7 +9,7 @@ D. Футурама
 
 ##### [_Дивизион B_](https://contest.yandex.ru/contest/28730/problems/)
 [A. Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1A.md)    
-B. Кольцевая линия метро  
+[B. Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)  
 [C. Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
 D. Строительство школы  
 E. Точка и треугольник  
