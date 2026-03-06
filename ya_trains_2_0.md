@@ -12,7 +12,7 @@ D. Футурама
 [B. Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)  
 [C. Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
 [D. Строительство школы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1D.md)  
-E. Точка и треугольник  
+[E. Точка и треугольник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1E.md)  
 
 #### Занятие 8
 ##### _Дивизион A_
