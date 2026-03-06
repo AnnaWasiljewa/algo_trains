@@ -11,7 +11,7 @@ D. Футурама
 [A. Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1A.md)    
 [B. Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)  
 [C. Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
-D. Строительство школы  
+[D. Строительство школы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1D.md)  
 E. Точка и треугольник  
 
 #### Занятие 8
