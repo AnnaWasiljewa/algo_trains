@@ -7,6 +7,6 @@
 [E. Скорая помощь.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11E.md)  
 [F. Расстановка ноутбуков.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11F.md)  
 [G. Детали.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11G.md)  
-H. Метро.  
+[H. Метро.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11H.md)  
 [I. Узник замка Иф.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)  
 [J. Система линейных уравнений-2.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md) 
