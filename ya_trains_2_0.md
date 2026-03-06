@@ -3,7 +3,7 @@
 ##### [_Дивизион A_](https://contest.yandex.ru/contest/28724/problems/)
 [A. Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AA.md)    
 [В. Параллелограмм](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AB.md)   
-С. Проверьте правильность ситуации  
+[С. Проверьте правильность ситуации](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AC.md)  
 D. Футурама  
 E. Another Pair of Triangles  
 
