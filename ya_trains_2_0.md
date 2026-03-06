@@ -1,6 +1,6 @@
 [### Яндекс Тренировки 2.0](https://yandex.ru/yaintern/algorithm-training_2)
 #### Занятие 1
-##### _Дивизион A_
+##### [_Дивизион A_](https://contest.yandex.ru/contest/28724/problems/)
 [A. Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AA.md)    
 В. Параллелограмм  
 С. Проверьте правильность ситуации  
