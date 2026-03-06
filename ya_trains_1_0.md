@@ -1,4 +1,4 @@
-### Яндекс Тренировки 1.0  
+[### Яндекс Тренировки 1.0](https://yandex.ru/yaintern/algorithm-training_2021)  
 #### Занятие 1
 [А. Кондиционер.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
 [B. Треугольник.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
