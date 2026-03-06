@@ -1,5 +1,5 @@
-[### Яндекс Тренировки 1.0](https://yandex.ru/yaintern/algorithm-training_2021)  
-[#### Занятие 1](https://contest.yandex.ru/contest/27393/problems/)
+### [Яндекс Тренировки 1.0](https://yandex.ru/yaintern/algorithm-training_2021)  
+#### [Занятие 1](https://contest.yandex.ru/contest/27393/problems/)
 [А. Кондиционер.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
 [B. Треугольник.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 [С. Телефонные номера.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
