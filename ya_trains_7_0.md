@@ -1,6 +1,6 @@
 ### [Яндекс Тренировки 7.0](https://yandex.ru/yaintern/training/algorithm-training-march-2025)
 #### Разминка
-А. Три единицы подряд   
+[А. Три единицы подряд](https://contest.yandex.ru/contest/74963/problems/)   
 B. Покупка билетов  
 C. Гвоздики  
 D. Вывести маршрут максимальной стоимости  
