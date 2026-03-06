@@ -1,4 +1,4 @@
-[### Яндекс Тренировки 2.0](https://yandex.ru/yaintern/algorithm-training_2)
+### [Яндекс Тренировки 2.0](https://yandex.ru/yaintern/algorithm-training_2)
 #### Занятие 1
 ##### [_Дивизион A_](https://contest.yandex.ru/contest/28724/problems/)
 [A. Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1A.md)    
@@ -7,7 +7,7 @@
 D. Футурама  
 [E. Another Pair of Triangles](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1E.md)  
 
-##### _Дивизион B_
+##### [_Дивизион B_](https://contest.yandex.ru/contest/28730/problems/)
 [A. Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1A.md)    
 B. Кольцевая линия метро  
 [C. Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
