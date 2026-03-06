@@ -5,7 +5,7 @@
 [В. Параллелограмм](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AB.md)   
 [С. Проверьте правильность ситуации](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21AC.md)  
 D. Футурама  
-E. Another Pair of Triangles  
+[E. Another Pair of Triangles](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1E.md)  
 
 ##### _Дивизион B_
 [A. Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/21BA.md)    
