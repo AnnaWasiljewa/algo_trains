@@ -2,7 +2,7 @@
 #### [Разминка](https://contest.yandex.ru/contest/74963/problems/)
 [А. Три единицы подряд](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70A.md)   
 [B. Покупка билетов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70B.md)  
-C. Гвоздики  
+[C. Гвоздики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70C.md)  
 D. Вывести маршрут максимальной стоимости  
 E. Кафе  
 F. Хипуй  
