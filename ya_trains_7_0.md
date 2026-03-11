@@ -5,7 +5,7 @@
 [C. Гвоздики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70C.md)  
 [D. Вывести маршрут максимальной стоимости](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70D.md)  
 [E. Кафе](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70E.md)  
-F. Хипуй  
+[F. Хипуй](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70F.md)  
 G. Родословная: подсчёт уровней  
 [H. Бинарное дерево (вставка, поиск, обход)](https://github.com/AnnaWasiljewa/algo_trains/blob/main/28BA.md)  
 I. Размер поддеревьев  
