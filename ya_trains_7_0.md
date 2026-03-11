@@ -7,5 +7,5 @@
 [E. Кафе](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70E.md)  
 [F. Хипуй](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70F.md)  
 [G. Родословная: подсчёт уровней](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70G.md)  
-[H. Бинарное дерево (вставка, поиск, обход)](https://github.com/AnnaWasiljewa/algo_trains/blob/main/28BA.md)  
+[H. Бинарное дерево (вставка, поиск, обход)](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B8A.md)  
 I. Размер поддеревьев  
