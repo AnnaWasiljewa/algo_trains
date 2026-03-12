@@ -7,7 +7,7 @@
 [E. Табло с инкрементом](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81E.md)  
 F. Плюсы, минусы и вопросы  
 G. Пять подряд  
-H. Разрезанная строка  
+[H. Разрезанная строка](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81H.md)  
 I. Новые ПДД*  
 J. Листы и вью*  
 
