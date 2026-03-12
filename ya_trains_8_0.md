@@ -2,7 +2,7 @@
 #### Темы 1-2. Тестирование и особые случаи. Множества и словари
 [А. Делёж грибов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81A.md)  
 [B. Мамины поручения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81B.md)  
-C. Кибербезопасность  
+[C. Кибербезопасность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81C.md)  
 D. Отборочный контест  
 E. Табло с инкрементом  
 F. Плюсы, минусы и вопросы  
