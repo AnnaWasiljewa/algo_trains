@@ -3,7 +3,7 @@
 [А. Делёж грибов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81A.md)  
 [B. Мамины поручения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81B.md)  
 [C. Кибербезопасность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81C.md)  
-D. Отборочный контест  
+[D. Отборочный контест](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81D.md)  
 E. Табло с инкрементом  
 F. Плюсы, минусы и вопросы  
 G. Пять подряд  
