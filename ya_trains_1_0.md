@@ -1,5 +1,5 @@
 ### [Яндекс Тренировки 1.0](https://yandex.ru/yaintern/algorithm-training_2021)  
-#### [Занятие 1](https://contest.yandex.ru/contest/27393/problems/)
+#### [Занятие 1. Сложность, тестирование, особые случаи](https://contest.yandex.ru/contest/27393/problems/)
 [А. Кондиционер.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
 [B. Треугольник.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 [С. Телефонные номера.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
@@ -11,7 +11,7 @@
 [I. Узник замка Иф.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)  
 [J. Система линейных уравнений-2.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md) 
 
-#### [Занятие 2](https://contest.yandex.ru/contest/27472/problems/)
+#### [Занятие 2. Линейный поиск](https://contest.yandex.ru/contest/27472/problems/)
 [А. Возрастает ли список?](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md)  
 [B. Определить вид последовательности](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12B.md)  
 [C. Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
@@ -21,4 +21,6 @@
 [G. Наибольшее произведение двух чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md)  
 [H. Наибольшее произведение трёх чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12H.md)  
 [I. Сапёр](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12I.md)  
-[J. Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md)  
+[J. Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md) 
+
+#### [Занятие 3. Множества](https://contest.yandex.ru/contest/27663/problems/)  
