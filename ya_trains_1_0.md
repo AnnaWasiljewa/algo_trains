@@ -14,7 +14,7 @@
 #### [Занятие 2](https://contest.yandex.ru/contest/27472/problems/)
 [А. Возрастает ли список?](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md)  
 [B. Определить вид последовательности](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12B.md)  
-C. Ближайшее число  
+[C. Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
 D. Больше своих соседей  
 E. Чемпионат по метанию коровьих лепёшек  
 F. Симметричная последовательность  
