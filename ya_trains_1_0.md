@@ -15,7 +15,7 @@
 [А. Возрастает ли список?](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md)  
 [B. Определить вид последовательности](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12B.md)  
 [C. Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
-D. Больше своих соседей  
+[D. Больше своих соседей](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md)  
 E. Чемпионат по метанию коровьих лепёшек  
 F. Симметричная последовательность  
 G. Наибольшее произведение двух чисел  
