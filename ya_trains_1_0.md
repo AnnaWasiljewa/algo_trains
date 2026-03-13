@@ -12,7 +12,7 @@
 [J. Система линейных уравнений-2.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md) 
 
 #### [Занятие 2](https://contest.yandex.ru/contest/27472/problems/)
-А. Возрастает ли список?  
+[А. Возрастает ли список?](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md)  
 B. Определить вид последовательности  
 C. Ближайшее число  
 D. Больше своих соседей  
