@@ -21,4 +21,4 @@
 [G. Наибольшее произведение двух чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md)  
 [H. Наибольшее произведение трёх чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12H.md)  
 [I. Сапёр](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12I.md)  
-J. Треугольник Максима  
+[J. Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md)  
