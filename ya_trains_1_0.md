@@ -18,7 +18,7 @@
 [D. Больше своих соседей](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md)  
 [E. Чемпионат по метанию коровьих лепёшек](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12E.md)  
 [F. Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)  
-G. Наибольшее произведение двух чисел  
+[G. Наибольшее произведение двух чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md)  
 H. Наибольшее произведение трёх чисел  
 I. Сапёр  
 J. Треугольник Максима  
