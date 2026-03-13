@@ -20,5 +20,5 @@
 [F. Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)  
 [G. Наибольшее произведение двух чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md)  
 H. Наибольшее произведение трёх чисел  
-I. Сапёр  
+[I. Сапёр](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12I.md)  
 J. Треугольник Максима  
