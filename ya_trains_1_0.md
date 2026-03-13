@@ -10,3 +10,15 @@
 [H. Метро.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11H.md)  
 [I. Узник замка Иф.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)  
 [J. Система линейных уравнений-2.](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md) 
+
+#### [Занятие 2](https://contest.yandex.ru/contest/27472/problems/)
+А. Возрастает ли список?
+B. Определить вид последовательности
+C. Ближайшее число
+D. Больше своих соседей
+E. Чемпионат по метанию коровьих лепёшек
+F. Симметричная последовательность
+G. Наибольшее произведение двух чисел
+H. Наибольшее произведение трёх чисел
+I. Сапёр
+J. Треугольник Максима
