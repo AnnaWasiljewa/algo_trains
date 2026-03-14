@@ -28,3 +28,4 @@
 [B. Пересечение множеств](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md)  
 [C. Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 [D. Количество слов в тексте](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md)  
+[E. OpenCalculator]()
