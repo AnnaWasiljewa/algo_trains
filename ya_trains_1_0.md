@@ -25,3 +25,4 @@
 
 #### [Занятие 3. Множества](https://contest.yandex.ru/contest/27663/problems/)  
 [А. Количество различных чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13A.md)  
+[B. Пересечение множеств](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md)  
