@@ -24,3 +24,4 @@
 [J. Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md) 
 
 #### [Занятие 3. Множества](https://contest.yandex.ru/contest/27663/problems/)  
+[А. Количество различных чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13A.md)  
