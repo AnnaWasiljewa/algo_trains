@@ -29,3 +29,4 @@
 [C. Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 [D. Количество слов в тексте](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md)  
 [E. OpenCalculator](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Е.md)  
+[F. Инопланетный геном](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13F.md)  
