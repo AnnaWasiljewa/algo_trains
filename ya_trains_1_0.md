@@ -31,3 +31,4 @@
 [E. OpenCalculator](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13E.md)  
 [F. Инопланетный геном](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13F.md)   
 [G. Черепахи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13G.md)  
+[H. Злые свинки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13H.md)  
