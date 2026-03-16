@@ -34,3 +34,5 @@
 [H. Злые свинки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13H.md)  
 [I. Полиглоты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13I.md)  
 [J. Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
+
+#### [Занятие 4. Словари и сортировка подсчётом](https://contest.yandex.ru/contest/27665/problems/)
