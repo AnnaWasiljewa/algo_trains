@@ -33,4 +33,4 @@
 [G. Черепахи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13G.md)  
 [H. Злые свинки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13H.md)  
 [I. Полиглоты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13I.md)  
-[J. Пробежка по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока Time Limit  
+[J. Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
