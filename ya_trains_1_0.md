@@ -37,4 +37,6 @@
 
 #### [Занятие 4. Словари и сортировка подсчётом](https://contest.yandex.ru/contest/27665/problems/) 
 [A. Словарь синонимов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md)  
+[B. Номер появления слова](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14B.md)  
+
 
