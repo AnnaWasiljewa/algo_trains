@@ -14,6 +14,7 @@
 
 [Злые свинки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13H.md) 
 
+[Из тупика в тупик](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85B.md)  
 [Инопланетный геном](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13F.md)  
 [Interactor](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1A.md)    
 
@@ -39,6 +40,7 @@
 [Пирамида](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14E.md)  
 [Покупка билетов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70B.md)  
 [Полиглоты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13I.md)  
+[Полка раздора](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85A.md)  
 [Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
 [Проверьте правильность ситуации](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1C.md)  
 
@@ -69,6 +71,5 @@
 [Чемпионат по метанию коровьих лепёшек](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12E.md)  
 [Черепахи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13G.md)  
  
-
 
 
