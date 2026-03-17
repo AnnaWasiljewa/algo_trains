@@ -29,10 +29,10 @@
 
 [Самое частое слово](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14C.md)   
 [Сапёр](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12I.md)  
-[Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)
-[Система линейных уравнений-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md)
+[Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)  
+[Система линейных уравнений-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md)  
 [Скорая помощь](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11E.md)  
-[Словарь синонимов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md)  
+[Словарь синонимов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md)   
 
 [Телефонные номера](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
 [Треугольник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
