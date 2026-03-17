@@ -39,6 +39,8 @@
 [A. Словарь синонимов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md)  
 [B. Номер появления слова](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14B.md)  
 [C. Самое частое слово](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14C.md)  
+[D. Клавиатура](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14D.md)  
+
 
 
 
