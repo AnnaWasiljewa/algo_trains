@@ -41,6 +41,8 @@
 [C. Самое частое слово](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14C.md)  
 [D. Клавиатура](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14D.md)  
 [E. Пирамида](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14E.md)  
+[F. Продажи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14F.md)  
+
 
 
 
