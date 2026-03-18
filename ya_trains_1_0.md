@@ -45,6 +45,9 @@
 [G. Банковские счета](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14G.md)  
 [H. Расшифровка письменности Майя](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14H.md)  
 [I. Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
+[J. Дополнительная проверка на списывание](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14J.md)  
+
+#### [Занятие 5. ]
 
 
 
