@@ -47,7 +47,8 @@
 [I. Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
 [J. Дополнительная проверка на списывание](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14J.md)  
 
-#### [Занятие 5. ]
+#### [Занятие 5. Префиксные суммы и два указателя](https://contest.yandex.ru/contest/27794/problems/)  
+
 
 
 
