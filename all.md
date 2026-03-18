@@ -1,5 +1,6 @@
 [Another Pair of Triangles](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1E.md)  
 
+[Банковские счета](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14G.md)  
 [Бинарное дерево (вставка, поиск, обход)](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B8A.md)  
 [Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
 [Больше своих соседей](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md)  
@@ -12,6 +13,7 @@
 [Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
 [Делёж грибов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81A.md)   
 [Детали](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11G.md)  
+[Дополнительная проверка на списывание](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14J.md)  
 
 [Злые свинки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13H.md) 
 
@@ -26,6 +28,7 @@
 [Количество слов в тексте](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md)  
 [Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)    
 [Кондиционер](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
+[Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
 [Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 
 [Мамины поручения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81B.md)  
@@ -48,10 +51,12 @@
 [Полка раздора](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85A.md)  
 [Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
 [Проверьте правильность ситуации](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1C.md)  
+[Продажи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14F.md)  
 
 [Размер поддеревьев](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70I.md)  
 [Разрезанная строка](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81H.md)  
 [Расстановка ноутбуков](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11F.md)  
+[Расшифровка письменности Майя](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14H.md)   
 [Родословная: подсчёт уровней](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70G.md)  
 
 [Самое частое слово](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14C.md)   
