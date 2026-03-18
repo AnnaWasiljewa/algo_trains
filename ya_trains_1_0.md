@@ -44,6 +44,8 @@
 [F. Продажи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14F.md)  
 [G. Банковские счета](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14G.md)  
 [H. Расшифровка письменности Майя](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14H.md)  
+[I. Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
+
 
 
 
