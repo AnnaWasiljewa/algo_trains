@@ -9,6 +9,7 @@
 [Вывести маршрут максимальной стоимости](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70D.md)  
 
 [Гвоздики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70C.md)  
+[Город Че](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15D.md)  
 
 [Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
 [Делёж грибов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81A.md)   
@@ -29,6 +30,7 @@
 [Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)    
 [Кондиционер](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
 [Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
+[Красота превыше всего](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15E.md)  
 [Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 
 [Мамины поручения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81B.md)  
@@ -66,7 +68,9 @@
 [Скорая помощь](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11E.md)  
 [Словарь синонимов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md)   
 [Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1A.md)    
+[Стильная одежда](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15A.md)  
 [Строительство школы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1D.md)  
+[Сумма номеров](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15B.md)  
 
 [Табло с инкрементом](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81E.md)   
 [Телефонные номера](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
@@ -74,6 +78,7 @@
 [Треугольник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 [Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md)  
 [Три единицы подряд](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70A.md)   
+[Туризм](https://github.com/AnnaWasiljewa/algo_trains/edit/main/15C.md)  
 
 [Узник замка Иф](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)   
 [Уравнение с корнем](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11D.md)   
