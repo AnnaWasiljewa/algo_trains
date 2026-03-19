@@ -50,6 +50,8 @@
 #### [Занятие 5. Префиксные суммы и два указателя](https://contest.yandex.ru/contest/27794/problems/)  
 [A. Стильная одежда](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15A.md)  
 [B. Сумма номеров](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15B.md)  
+[C. Туризм](https://github.com/AnnaWasiljewa/algo_trains/edit/main/15C.md)  
+
 
 
 
