@@ -52,6 +52,8 @@
 [B. Сумма номеров](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15B.md)  
 [C. Туризм](https://github.com/AnnaWasiljewa/algo_trains/edit/main/15C.md)  
 [D. Город Че](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15D.md)  
+[E. Красота превыше всего](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15E.md)  
+
 
 
 
