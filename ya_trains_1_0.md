@@ -57,6 +57,8 @@
 [H. Подстрока](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15H.md)  
 
 #### [Занятие 6. Бинарный поиск](https://contest.yandex.ru/contest/27844/problems/)  
+[A. Двоичный поиск](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16A.md)  
+
 
 
 
