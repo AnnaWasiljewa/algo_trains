@@ -64,6 +64,8 @@
 [E. Улучшение успеваемости](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16E.md)  
 [F. Очень лёгкая задача](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16F.md)  
 [G. Площадь](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16G.md)  
+[H. Провода](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16H.md)  
+
 
 
 
