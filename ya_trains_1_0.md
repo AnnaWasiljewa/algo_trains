@@ -61,6 +61,8 @@
 [B. Приближённый двоичный поиск](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16B.md)  
 [C. Дипломы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16C.md)  
 [D. Космическое поселение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16D.md)  
+[E. Улучшение успеваемости](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16E.md)  
+
 
 
 
