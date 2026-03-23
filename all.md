@@ -12,8 +12,10 @@
 [Город Че](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15D.md)  
 
 [Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
+[Двоичный поиск](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16A.md)  
 [Делёж грибов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81A.md)   
 [Детали](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11G.md)  
+[Дипломы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16C.md)  
 [Дополнительная проверка на списывание](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14J.md)  
 
 [Злые свинки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13H.md) 
@@ -29,11 +31,15 @@
 [Количество слов в тексте](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md)  
 [Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)    
 [Кондиционер](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
+[Кондиционеры](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15F.md)  
 [Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
+[Космическое поселение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16D.md)  
 [Красота превыше всего](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15E.md)  
 [Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 
 [Мамины поручения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81B.md)  
+[Медиана объединения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16J.md)  
+[Медиана объединения-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16K.md)   
 [Метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11H.md)  
 [Мячик на лесенке](https://github.com/AnnaWasiljewa/algo_trains/blob/main/83A.md)  
 
@@ -44,15 +50,20 @@
 [OpenCalculator](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13E.md)  
 [Определить вид последовательности](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12B.md)  
 [Отборочный контест](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81D.md)  
+[Очень лёгкая задача](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16F.md)  
 
 [Параллелограмм](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1B.md)   
 [Пересечение множеств](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md)  
 [Пирамида](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14E.md)  
+[Площадь](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16G.md)  
+[Подстрока](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15H.md)  
 [Покупка билетов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70B.md)  
 [Полиглоты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13I.md)  
 [Полка раздора](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85A.md)  
+[Приближённый двоичный поиск](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16B.md)  
 [Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
 [Проверьте правильность ситуации](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1C.md)  
+[Провода](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16H.md)  
 [Продажи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14F.md)  
 
 [Размер поддеревьев](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70I.md)  
@@ -70,6 +81,7 @@
 [Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1A.md)    
 [Стильная одежда](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15A.md)  
 [Строительство школы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1D.md)  
+[Субботник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16I.md)  
 [Сумма номеров](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15B.md)  
 
 [Табло с инкрементом](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81E.md)   
@@ -81,6 +93,7 @@
 [Туризм](https://github.com/AnnaWasiljewa/algo_trains/edit/main/15C.md)  
 
 [Узник замка Иф](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)   
+[Улучшение успеваемости](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16E.md)  
 [Уравнение с корнем](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11D.md)   
 
 [Хипуй](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70F.md)  
