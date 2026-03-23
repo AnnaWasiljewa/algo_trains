@@ -67,6 +67,7 @@
 [H. Провода](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16H.md)  
 [I. Субботник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16I.md)  
 [J. Медиана объединения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16J.md)  
+[K. Медиана объединения-2]()  
 
 
   
