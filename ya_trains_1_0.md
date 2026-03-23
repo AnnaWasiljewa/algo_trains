@@ -69,7 +69,7 @@
 [J. Медиана объединения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16J.md)  
 [K. Медиана объединения-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16K.md)   
 
-#### Занятие 7. 
+#### [Занятие 7. Сортировка событий](https://contest.yandex.ru/contest/27883/problems/) 
 
 
   
