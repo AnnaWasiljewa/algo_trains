@@ -43,6 +43,7 @@
 [Метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11H.md)  
 [Мячик на лесенке](https://github.com/AnnaWasiljewa/algo_trains/blob/main/83A.md)  
 
+[Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
 [Наибольшее произведение двух чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md)  
 [Наибольшее произведение трёх чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12H.md)  
 [Номер появления слова](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14B.md)  
@@ -68,6 +69,7 @@
 
 [Размер поддеревьев](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70I.md)  
 [Разрезанная строка](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81H.md)  
+[Рассадка в аудитории](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17C.md)  
 [Расстановка ноутбуков](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11F.md)  
 [Расшифровка письменности Майя](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14H.md)   
 [Родословная: подсчёт уровней](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70G.md)  
@@ -87,6 +89,7 @@
 [Табло с инкрементом](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81E.md)   
 [Телефонные номера](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11C.md)  
 [Точка и треугольник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1E.md)  
+[Точки и отрезки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17B.md)  
 [Треугольник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 [Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md)  
 [Три единицы подряд](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70A.md)   
@@ -100,3 +103,6 @@
 
 [Чемпионат по метанию коровьих лепёшек](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12E.md)  
 [Черепахи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13G.md)  
+
+
+
