@@ -72,6 +72,8 @@
 #### [Занятие 7. Сортировка событий](https://contest.yandex.ru/contest/27883/problems/) 
 [A. Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
 [B. Точки и отрезки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17B.md)  
+[C. Рассадка в аудитории](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17C.md)  
+
 
 
 
