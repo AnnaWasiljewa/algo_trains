@@ -70,6 +70,8 @@
 [K. Медиана объединения-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16K.md)   
 
 #### [Занятие 7. Сортировка событий](https://contest.yandex.ru/contest/27883/problems/) 
+[A. Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
+
 
 
   
