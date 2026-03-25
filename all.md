@@ -44,7 +44,7 @@
 [Мячик на лесенке](https://github.com/AnnaWasiljewa/algo_trains/blob/main/83A.md)  
 
 [Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
-[Наибольшее произведение двух чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md)  
+Наибольшее произведение двух чисел [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Gpy.md)  
 [Наибольшее произведение трёх чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12H.md)  
 [Номер появления слова](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14B.md)  
 
