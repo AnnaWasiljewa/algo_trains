@@ -75,7 +75,7 @@ A. Словарь синонимов [C++](https://github.com/AnnaWasiljewa/algo
 [C. Рассадка в аудитории](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17C.md)  
 
 #### [Занятие 8. Деревья](https://contest.yandex.ru/contest/28069/problems/)  
-A. Высота дерева С++ Python  
+A. Высота дерева [С++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Apy.md)   
 
 
 
