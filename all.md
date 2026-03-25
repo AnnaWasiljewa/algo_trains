@@ -79,7 +79,7 @@
 [Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)  
 [Система линейных уравнений-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11J.md)  
 [Скорая помощь](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11E.md)  
-[Словарь синонимов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md)   
+Словарь синонимов[C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14Apy.md)    
 [Сложное уравнение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1A.md)    
 [Стильная одежда](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15A.md)  
 [Строительство школы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1D.md)  
