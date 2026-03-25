@@ -36,7 +36,7 @@
 [J. Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
 
 #### [Занятие 4. Словари и сортировка подсчётом](https://contest.yandex.ru/contest/27665/problems/) 
-A. Словарь синонимов[C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14Apy.md)  
+A. Словарь синонимов [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14Apy.md)  
 [B. Номер появления слова](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14B.md)  
 [C. Самое частое слово](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14C.md)  
 [D. Клавиатура](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14D.md)  
