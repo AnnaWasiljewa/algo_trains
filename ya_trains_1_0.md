@@ -73,6 +73,7 @@ A. Словарь синонимов [C++](https://github.com/AnnaWasiljewa/algo
 [A. Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
 [B. Точки и отрезки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17B.md)  
 [C. Рассадка в аудитории](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17C.md)  
+[E. Кассы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17E.md)  
 
 #### [Занятие 8. Деревья](https://contest.yandex.ru/contest/28069/problems/)  
 A. Высота дерева [С++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Apy.md)   
