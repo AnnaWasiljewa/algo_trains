@@ -93,7 +93,7 @@
 [Точки и отрезки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17B.md)  
 [Треугольник](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11B.md)  
 [Треугольник Максима](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12J.md)  
-[Три единицы подряд](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70A.md)   
+Три единицы подряд [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70Apy.md)  
 [Туризм](https://github.com/AnnaWasiljewa/algo_trains/edit/main/15C.md)  
 
 [Узник замка Иф](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11I.md)   
