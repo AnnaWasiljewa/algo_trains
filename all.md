@@ -62,6 +62,7 @@
 [Покупка билетов](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70B.md)  
 [Полиглоты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13I.md)  
 [Полка раздора](https://github.com/AnnaWasiljewa/algo_trains/blob/main/85A.md)  
+Правильная скобочная последовательность [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/002py.md)  
 [Приближённый двоичный поиск](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16B.md)  
 [Пробежки по Манхэттену](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13J.md) - пока _Time Limit_  
 [Проверьте правильность ситуации](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1C.md)  
