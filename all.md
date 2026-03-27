@@ -42,6 +42,7 @@
 [Медиана объединения](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16J.md)  
 [Медиана объединения-2](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16K.md)   
 [Метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11H.md)  
+Минимум на отрезке [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/003py.md)  
 [Мячик на лесенке](https://github.com/AnnaWasiljewa/algo_trains/blob/main/83A.md)  
 
 [Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
