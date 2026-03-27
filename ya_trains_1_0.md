@@ -27,7 +27,7 @@ G. Наибольшее произведение двух чисел [C++](https
 [А. Количество различных чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13A.md)  
 [B. Пересечение множеств](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md)  
 [C. Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
-[D. Количество слов в тексте](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md)  
+D. Количество слов в тексте [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Dpy.md)  
 [E. OpenCalculator](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13E.md)  
 [F. Инопланетный геном](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13F.md)   
 [G. Черепахи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13G.md)  
