@@ -10,6 +10,7 @@
 Высота дерева [С++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Apy.md)   
 
 [Гвоздики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70C.md)  
+Гистограмма и прямоугольник [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/005py.md)  
 [Город Че](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15D.md)  
 
 [Даты](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1C.md)  
