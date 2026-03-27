@@ -101,6 +101,7 @@
 [Уравнение с корнем](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11D.md)   
 
 [Хипуй](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70F.md)  
+Хорошая строка [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/001py.md)  
 
 [Чемпионат по метанию коровьих лепёшек](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12E.md)  
 [Черепахи](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13G.md)  
