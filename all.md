@@ -35,6 +35,7 @@
 [Кондиционеры](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15F.md)  
 [Контрольная по ударениям](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14I.md)  
 [Космическое поселение](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16D.md)  
+Красивая строка [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/004py.md)  
 [Красота превыше всего](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15E.md)  
 [Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 
