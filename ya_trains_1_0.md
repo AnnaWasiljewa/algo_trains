@@ -71,7 +71,7 @@ A. Словарь синонимов [C++](https://github.com/AnnaWasiljewa/algo
 
 #### [Занятие 7. Сортировка событий](https://contest.yandex.ru/contest/27883/problems/) 
 [A. Наблюдение за студентами](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17A.md)  
-[B. Точки и отрезки](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17B.md)  
+B. Точки и отрезки [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17B.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17Bpy.md)  
 [C. Рассадка в аудитории](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17C.md)  
 [E. Кассы](https://github.com/AnnaWasiljewa/algo_trains/blob/main/17E.md)  
 
