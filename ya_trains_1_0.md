@@ -80,6 +80,7 @@ A. Высота дерева [С++](https://github.com/AnnaWasiljewa/algo_trains
 B. Глубина добавляемых элементов [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Bpy.md)  
 C. Второй максимум [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Cpy.md)  
 D. Обход [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Dpy.md)  
+E. Вывод листьев [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Epy.md)  
 
 
 
