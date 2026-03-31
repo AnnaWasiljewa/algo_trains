@@ -78,6 +78,7 @@ B. Точки и отрезки [C++](https://github.com/AnnaWasiljewa/algo_trai
 #### [Занятие 8. Деревья](https://contest.yandex.ru/contest/28069/problems/)  
 A. Высота дерева [С++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Apy.md)   
 B. Глубина добавляемых элементов [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Bpy.md)  
+C. Второй максимум [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Cpy.md)  
 
 
 
