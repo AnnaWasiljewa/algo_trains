@@ -85,6 +85,7 @@ F. Вывод развилок [Python](https://github.com/AnnaWasiljewa/algo_tr
 G. Вывод веток [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Gpy.md)  
 H. АВЛ-сбалансированность [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Hpy.md)  
 I. Родословная: число потомков [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Ipy.md)  
+J. Родословная: подсчёт уровней [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Jpy.md)  
 
 
 
