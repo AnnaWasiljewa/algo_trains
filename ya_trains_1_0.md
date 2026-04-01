@@ -82,6 +82,7 @@ C. Второй максимум [Python](https://github.com/AnnaWasiljewa/algo_
 D. Обход [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Dpy.md)  
 E. Вывод листьев [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Epy.md)  
 F. Вывод развилок [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Fpy.md)  
+G. Вывод веток [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Gpy.md)  
 
 
 
