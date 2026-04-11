@@ -2,10 +2,11 @@
 
 [Дивизион А](https://contest.yandex.ru/contest/45469/problems/) 
 
-А. Гистограмма [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A1py.md)  
+1. Гистограмма [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A1py.md)
+2. Красивая строка [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A2py.md)  
 
 [Дивизион B](https://contest.yandex.ru/contest/45468/problems/)  
 
-А. Гистограмма [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A1py.md)  
-
+1. Гистограмма [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A1py.md)
+2. Красивая строка [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A2py.md)  
 
