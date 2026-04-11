@@ -21,6 +21,7 @@ __Формат вывода__
 соответствующий ему. Отформатируйте гистограмму так, чтобы нижние концы столбиков были на одной строке, первая строка 
 и первый столбец были непустыми. Не отделяйте столбики друг от друга. Отсортируйте столбики в порядке увеличения кодов символов.
 
+__Решение с помощью Counter__
 ```py
 import sys
 from collections import Counter
@@ -28,6 +29,31 @@ from collections import Counter
 text = sys.stdin.read()
 
 char_counts = Counter(c for c in text if c not in ' \n')
+
+sorted_chars = sorted(char_counts.keys())
+
+max_height = max(char_counts.values())
+
+histogram_lines = []
+for level in range(max_height, 0, -1):
+    line = ''.join('#' if char_counts[char] >= level else ' ' for char in sorted_chars)
+    histogram_lines.append(line)
+
+histogram_lines.append(''.join(sorted_chars))
+
+print('\n'.join(histogram_lines))
+```
+
+__Решение с помощью просто словаря__
+```py
+import sys
+
+text = sys.stdin.read()
+
+char_counts = {}
+for c in text:
+    if c not in (' ', '\n'):
+        char_counts[c] = char_counts.get(c, 0) + 1
 
 sorted_chars = sorted(char_counts.keys())
 
