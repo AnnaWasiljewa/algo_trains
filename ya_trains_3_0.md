@@ -2,7 +2,7 @@
 
 [Дивизион А](https://contest.yandex.ru/contest/45469/problems/) 
 
-А. Гистограмма [Python]()
+А. Гистограмма [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A1py.md)
 
 [Дивизион B](https://contest.yandex.ru/contest/45468/problems/)  
 
