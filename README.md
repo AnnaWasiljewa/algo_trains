@@ -1,4 +1,4 @@
-### Яндекс Тренировки
+### [Яндекс Тренировки](https://yandex.ru/yaintern/training)  
 Решения алгоритмических задач Яндекс Тренировок на С++  
 
 [Все задачи по алфавиту](https://github.com/AnnaWasiljewa/algo_trains/blob/main/all.md)  
