@@ -14,7 +14,7 @@
 #### [Занятие 2. Линейный поиск](https://contest.yandex.ru/contest/27472/problems/)
 А. Возрастает ли список? [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Apy.md)  
 [B. Определить вид последовательности](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12B.md)  
-[C. Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
+C. Ближайшее число [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Cpy.md)    
 D. Больше своих соседей [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Dpy.md)    
 [E. Чемпионат по метанию коровьих лепёшек](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12E.md)  
 [F. Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)  
