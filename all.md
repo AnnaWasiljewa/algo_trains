@@ -2,7 +2,7 @@
 
 [Банковские счета](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14G.md)  
 [Бинарное дерево (вставка, поиск, обход)](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B8A.md)  
-[Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
+Ближайшее число [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Cpy.md) 
 Больше своих соседей [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Dpy.md)    
 
 Возрастает ли список? [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Apy.md)  
