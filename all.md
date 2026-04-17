@@ -5,7 +5,7 @@
 [Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
 [Больше своих соседей](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md)  
 
-[Возрастает ли список?](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md)  
+Возрастает ли список? [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Apy.md)  
 [Вывести маршрут максимальной стоимости](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70D.md)  
 Высота дерева [С++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Apy.md)   
 
