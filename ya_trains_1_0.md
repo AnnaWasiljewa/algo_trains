@@ -15,7 +15,7 @@
 А. Возрастает ли список? [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Apy.md)  
 [B. Определить вид последовательности](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12B.md)  
 [C. Ближайшее число](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12C.md)  
-[D. Больше своих соседей](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md)  
+D. Больше своих соседей [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12D.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Dpy.md)    
 [E. Чемпионат по метанию коровьих лепёшек](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12E.md)  
 [F. Симметричная последовательность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12F.md)  
 G. Наибольшее произведение двух чисел [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12G.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/12Gpy.md)  
