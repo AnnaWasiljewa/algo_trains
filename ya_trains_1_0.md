@@ -25,7 +25,7 @@ G. Наибольшее произведение двух чисел [C++](https
 
 #### [Занятие 3. Множества](https://contest.yandex.ru/contest/27663/problems/)  
 А. Количество различных чисел [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Apy.md)  
-[B. Пересечение множеств](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md)  
+B. Пересечение множеств [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Bpy.md)  
 [C. Кубики](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13C.md)  
 D. Количество слов в тексте [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Dpy.md)  
 [E. OpenCalculator](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13E.md)  
