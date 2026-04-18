@@ -30,7 +30,7 @@
 [Кафе](https://github.com/AnnaWasiljewa/algo_trains/blob/main/70E.md)  
 [Кибербезопасность](https://github.com/AnnaWasiljewa/algo_trains/blob/main/81C.md)  
 [Клавиатура](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14D.md)  
-[Количество различных чисел](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13A.md)  
+Количество различных чисел [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13A.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Apy.md)  
 Количество слов в тексте [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13D.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Dpy.md)  
 [Кольцевая линия метро](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2B1B.md)    
 [Кондиционер](https://github.com/AnnaWasiljewa/algo_trains/blob/main/11A.md)  
