@@ -59,7 +59,7 @@
 [Очень лёгкая задача](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16F.md)  
 
 [Параллелограмм](https://github.com/AnnaWasiljewa/algo_trains/blob/main/2A1B.md)   
-[Пересечение множеств](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md)  
+Пересечение множеств [C++](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13B.md) [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/13Bpy.md)  
 [Пирамида](https://github.com/AnnaWasiljewa/algo_trains/blob/main/14E.md)  
 [Площадь](https://github.com/AnnaWasiljewa/algo_trains/blob/main/16G.md)  
 [Подстрока](https://github.com/AnnaWasiljewa/algo_trains/blob/main/15H.md)  
