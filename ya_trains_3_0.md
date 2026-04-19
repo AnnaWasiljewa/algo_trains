@@ -9,5 +9,5 @@
 
 1. Гистограмма [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3A1py.md)
 2. Красивая строка [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/004py.md)
-11. Стек с защитой от ошибок [Python]()  
+11. Стек с защитой от ошибок [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/3B11py.md)   
 
